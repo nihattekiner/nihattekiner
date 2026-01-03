@@ -24,29 +24,43 @@
 ## About Me 🚀
 
 [TR]
+
 Kurumsal seviyedeki projelerde kalite güvence çözümleri sunan, 4+ yıllık deneyime sahip bir Yazılım QA Mühendisiyim. aMVG'de başlayan kariyer yolculuğuma, şirketin GroupM (WPP) bünyesine katılmasıyla devam ettim. Bu süreçte Digiturk, P&G (BanaBak), Borusan, Vodafone, Turkcell, Turk Telekom, Ispark, Shell, Opet gibi sektör devi markaların uçtan uca test süreçlerini yönettim.
 
 Teknolojiyi yakından takip eden biri olarak; şu anda test süreçlerini modernleştirmek adına Playwright üzerine yoğunlaşıyor ve Yapay Zeka (AI) tabanlı çözümleri otomasyon süreçlerine entegre ediyorum.
 
 Diller: Java, JavaScript
+
 Web Otomasyon: Selenium WebDriver, Cucumber (BDD), TestNG
+
 API Test: RestAssured, Postman
+
 Mobil: Appium (Android), Emulators
+
 CI/CD & Araçlar: Azure DevOps, Jira, Git, Jenkins
-Gelişim Alanları: Playwright, Cypress, AI Prompt Engineering
+
+Gelişim Alanları: Playwright, Cypress, AI Prompt Engineering, Python
+
 
 [EN]
+
 Software QA Engineer with 4+ years of experience delivering quality assurance solutions for enterprise-grade projects. My career journey began at aMVG and evolved through its acquisition by GroupM (WPP), where I managed end-to-end testing processes for major clients including Digiturk, P&G (BanaBak), Borusan, Vodafone, Turkcell, Turk Telekom, Ispark, Shell, and Opet.
 
 I am currently focused on modernizing testing workflows by mastering Playwright and integrating AI-driven solutions to enhance efficiency.
 
 Technical Skills:
+
 Languages: Java, JavaScript
+
 Web Automation: Selenium WebDriver, Cucumber (BDD), TestNG
+
 API Testing: RestAssured, Postman
+
 Mobile: Appium (Android), Emulators
+
 CI/CD & Tools: Azure DevOps, Jira, Git, Jenkins
-Future Focus: Playwright, Cypress, AI Prompt Engineering
+
+Future Focus: Playwright, Cypress, AI Prompt Engineering, Python
 
 ## Technology Stack 🛠️
 
